@@ -1,0 +1,6 @@
+name=Pomodial
+author=Fredrik Sjöberg
+description=Wind-up pomodoro timer with a Time Timer style dial
+bundleID=se.andhumans.pomodial
+version=0.1.0
+buildNumber=1
