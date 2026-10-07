@@ -2,3 +2,4 @@ Pomodial.pdx/
 # Copied from the Playdate SDK at build time (not redistributable)
 source/fonts/
 .DS_Store
+dist/

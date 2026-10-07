@@ -255,7 +255,7 @@ end
 local HINTS <const> = {
 	set = "🎣 wind  Ⓐ start\n✛ phase",
 	running = "Ⓐ pause\nⒷ reset",
-	paused = "Paused\nⒶ resume  Ⓑ reset",
+	paused = "Paused\nⒶ resume\nⒷ reset",
 }
 
 local function drawPanel()
